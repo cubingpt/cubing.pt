@@ -3,6 +3,7 @@ module.exports = {
     title: `Cubing Portugal`,
     description: `The Portuguese Cubing Community on the web.`,
     author: `Cubing Portuga`,
+    siteUrl: `https://cubing.pt`
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -15,6 +16,7 @@ module.exports = {
     },
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
+    `gatsby-plugin-sitemap`,
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
