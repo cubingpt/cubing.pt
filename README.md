@@ -1,4 +1,7 @@
-# :globe_with_meridians: cubing.pt
+<div align="center">
+        <img src="static/portugal_team.png" width="250" alt="Portugal Team">
+    <h1>Cubing Portugal</h1>
+</div>
 
 > The Portuguese Cubing Community Website
 
@@ -55,7 +58,7 @@ repository before making a change.
 Please note we have a [Code of Conduct](CODE_OF_CONDUCT.md), please follow it
 in all your interactions with the project.
 
-### Pull Request Process
+### :twisted_rightwards_arrows: Pull Request Process
 
 1. It is advised to create a Pull Request if you are stuck (so others can help
    you) or when your feature is complete and tested.
