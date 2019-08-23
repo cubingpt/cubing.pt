@@ -1,4 +1,7 @@
-# :globe_with_meridians: cubing.pt
+<div align="center">
+        <img src="static/portugal_team.png" width="250" alt="Portugal Team">
+    <h1>Cubing Portugal</h1>
+</div>
 
 > The Portuguese Cubing Community Website
 
